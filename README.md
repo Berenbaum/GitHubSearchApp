@@ -21,7 +21,7 @@ git clone https://github.com/Berenbaum/GitHubSearchApp.git
 
 Usage
 1. Type the name of the repository you would like to search for in the search box.
-2. Press the "Search" button or press Enter to perform the search.
+2. Press the "Search" button.
 3. The search results will be displayed as gallery items, showing the repository name, owner's avatar, and a bookmark button.
 4. To bookmark a repository, click on the bookmark button. The bookmarked repository will be stored in the user's session.
 5. To view bookmarked repositories, click on the "Open Bookmarks" button.
